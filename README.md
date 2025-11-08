@@ -54,3 +54,5 @@ Default trading flags (editable via `.env` or `config.yaml`):
 
 ## Safety & Disclaimer
 Algorithmic trading carries significant financial risk. Use paper/demo modes until you validate strategies, confirm broker credentials, and stress test failure paths. The authors assume no responsibility for trading outcomes.
+
+Developer: [@Manokil](https://t.me/Rust0x_726)
